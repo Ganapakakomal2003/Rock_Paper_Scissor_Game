@@ -38,7 +38,7 @@ Play against the computer, try to win rounds, and keep track of scores in real-t
 
 ## 📸 Screenshot  
 
-![Rock Paper Scissors Screenshot](scissors.jpg)  
+![Rock Paper Scissors Screenshot](screenshots.jpg)  
 
 ---
 ## 🙌 Author
